@@ -1,4 +1,4 @@
-# dicee
+# Movie_streaming_App
 
 A new Flutter project.
 
