@@ -36,6 +36,8 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   dropdown_model_list: ^0.0.8
+  pretty_animated_buttons: ^0.0.1
+  sign_in_button: ^3.0.0
 
 
 dev_dependencies:
